@@ -1,1 +1,1 @@
-# scordite_2.0
+# scordite2.0
